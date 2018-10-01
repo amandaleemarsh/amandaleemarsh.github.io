@@ -1,0 +1,14 @@
+body {
+  font-size: 133%;
+  font-family: sans-serif;
+}
+
+#heading {
+	line-height: .75;
+	text-align: center;
+}
+
+#content h4 {
+	color: blue;
+	line-height: .75;
+}
