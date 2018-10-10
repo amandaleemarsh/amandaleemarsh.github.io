@@ -12,3 +12,7 @@ body {
 	color: blue;
 	line-height: .75;
 }
+
+li.work {
+	font-style: italic;
+}
