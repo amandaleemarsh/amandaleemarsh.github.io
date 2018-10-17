@@ -1,0 +1,32 @@
+button {
+    background-color: hsl(180, 100%, 50%);
+    border: 4px green ridge;
+    color: blue;
+    text-align: left;
+    font-size: 16px;
+}
+
+header {
+    background-color: violet;
+}
+
+header p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 110;
+}
+
+hi.foo {
+    text-align: center;
+}
+
+h1#new-point {
+    text-align: right;
+}
+
+
+
+.byline {
+    font-style: italic;
+    font-size: 80%;
+}
