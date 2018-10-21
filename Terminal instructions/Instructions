@@ -1,0 +1,35 @@
+Amandas-MacBook-Pro:~ amanda$ ls
+    
+    will list Applications/ directories
+
+Amandas-MacBook-Pro:~ amanda$ cd D
+   
+    lists all applications starting with D
+
+Amandas-MacBook-Pro:~ amanda$ cd Desktop/
+Amandas-MacBook-Pro:Desktop amanda$ ls
+    
+    lists all sub-directories within "Desktop"
+
+Amandas-MacBook-Pro:Desktop amanda$ cd PROG109
+Amandas-MacBook-Pro:PROG109 amanda$ ls
+
+    lists folders in PROG109
+
+Amandas-MacBook-Pro:PROG109 amanda$ cd amandaleemarsh.github.io/
+Amandas-MacBook-Pro:amandaleemarsh.github.io amanda$ git status
+    
+    allows you to start working within the git repository
+    shows you changes on comp.
+
+
+
+Amandas-MacBook-Pro:amandaleemarsh.github.io amanda$ git commit -m "comment"
+
+Amandas-MacBook-Pro:amandaleemarsh.github.io amanda$ git status
+
+Amandas-MacBook-Pro:amandaleemarsh.github.io amanda$ git push
+
+
+
+
