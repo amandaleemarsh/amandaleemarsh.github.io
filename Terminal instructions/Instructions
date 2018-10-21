@@ -22,7 +22,7 @@ Amandas-MacBook-Pro:amandaleemarsh.github.io amanda$ git status
     allows you to start working within the git repository
     shows you changes on comp.
 
-
+Amandas-MacBook-Pro:amandaleemarsh.github.io amanda$ git add .
 
 Amandas-MacBook-Pro:amandaleemarsh.github.io amanda$ git commit -m "comment"
 
