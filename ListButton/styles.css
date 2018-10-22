@@ -1,19 +1,19 @@
 button {
-    background-color: hsl(180, 100%, 50%);
-    border: 4px green ridge;
-    color: blue;
+    background-color: #eaf9f5;
+    border: 4px #00f7b5;
+    color: black;
     text-align: left;
-    font-size: 16px;
+    font-size: 12px;
 }
 
 header {
-    background-color: violet;
+    background-color: #eaf9f5;
 }
 
 header p {
     text-align: center;
     font-weight: bold;
-    font-size: 110;
+    font-size: 100;
 }
 
 hi.foo {
@@ -21,7 +21,7 @@ hi.foo {
 }
 
 h1#new-point {
-    text-align: right;
+    text-align: center;
 }
 
 
